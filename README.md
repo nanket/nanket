@@ -40,8 +40,8 @@ I'm **Aniket Nagapure**, a **Senior React Engineer** and Full-Stack Developer pa
 ## 🔗 Let's Connect
 
 - 🌐 **Portfolio:** [aniketnagapure.dev](https://www.aniketnagapure.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/aniket-nagapure](https://linkedin.com/in/aniket-nagapure)
-- 🐦 **Twitter:** [@aniketnagapure](https://twitter.com/aniketnagapure)
+- 💼 **LinkedIn:** [linkedin.com/in/aniketnagapure](https://www.linkedin.com/in/aniketnagapure/)
+- 🐦 **Twitter:** [@aniketvnagapure](https://twitter.com/aniketvnagapure)
 - ✉️ **Email:** [nanket.dev@gmail.com](mailto:nanket.dev@gmail.com)
 
 ## 🎯 Open to Opportunities

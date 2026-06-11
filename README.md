@@ -1,54 +1,31 @@
-# Hi there 👋
+# Aniket Nagapure
 
-I'm **Aniket Nagapure**, a **Senior React Engineer** and Full-Stack Developer passionate about building scalable, high-performance applications.
+Senior React Engineer and full-stack builder focused on shipping practical web and mobile products.
 
-## 🚀 About Me
+I work mostly with React, React Native, TypeScript, Node.js, Python, and AI-assisted product workflows. My recent work is around educational developer tools, trading automation, small-business software, and focused content/product sites.
 
-- 🎯 **7+ years** of experience in Cross-Platform Mobile & Web Development
-- 💼 Currently working as a **Self-employed Developer** building SaaS products
-- 🏗️ Skilled in **React**, **React Native**, **Node.js**, **Python**, and **TypeScript**
-- 🤖 Experienced with **AI/ML integration** (Google Vertex AI, Claude, OpenAI APIs)
-- 📱 Built and shipped **Android TV apps** and **high-scale applications**
-- 🎓 Pursuing **Azure 900 Certification**
+## Selected Public Work
 
-## 💻 Tech Stack
+- [NamasteJS Visualizer](https://github.com/nanket/namastejs-visualizer) - open-source JavaScript concept visualizer for closures, scope, promises, async/await, and the event loop.
+- [Nifty Telegram High Low Bot](https://github.com/nanket/nifty-telegram-high-low-bot) - market utility for NIFTY high/low updates via Telegram.
+- [Swami Vivekananda Web](https://github.com/nanket/swami-vivekananda-web) - focused web experience around Swami Vivekananda content.
+- [Paiwat Website](https://github.com/nanket/paiwat-website) - business website project.
+- [Stitchwell Notify](https://github.com/nanket/stitchwell-notify) - notification workflow for Stitchwell operations.
 
-**Frontend:** React | React Native | Next.js | TypeScript | Tailwind CSS
+## Core Stack
 
-**Backend:** Node.js | Express | Python | Firebase | Google Cloud
+React, React Native, TypeScript, Next.js, Node.js, Python, Tailwind CSS, Firebase, Supabase, Vercel, Google Cloud, OpenAI APIs.
 
-**Mobile:** React Native | Flutter | Expo | Android Development
+## Current Focus
 
-**AI/ML:** Google Vertex AI | OpenAI APIs | Claude Integration
+- Developer education tools and JavaScript learning experiences
+- Trading and market-automation utilities
+- Mobile-first SaaS and small-business workflow software
+- AI-assisted product development and automation
 
-**Cloud & DevOps:** Firebase | Vercel | Google Cloud Platform | AWS
+## Contact
 
-**Tools & Platforms:** VS Code | GitHub | Docker | Git | Postman
-
-## 🎯 Current Focus
-
-- Building AI-powered SaaS applications
-- Virtual try-on technology using AR & ML
-- Trading/Options analysis tools
-- Inventory management systems with QR code integration
-- Ethnic wear e-commerce solutions
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanket&theme=dark&show_icons=true)
-
-## 🔗 Let's Connect
-
-- 🌐 **Portfolio:** [aniketnagapure.dev](https://www.aniketnagapure.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/aniketnagapure](https://www.linkedin.com/in/aniketnagapure/)
-- 🐦 **Twitter:** [@aniketvnagapure](https://twitter.com/aniketvnagapure)
-- ✉️ **Email:** [nanket.dev@gmail.com](mailto:nanket.dev@gmail.com)
-
-## 🎯 Open to Opportunities
-
-✅ Full-time | Contract | Part-time roles in React, Full-Stack, or Mobile Development
-✅ Remote work preferred | Flexible with location-based opportunities
-
----
-
-**"Build. Ship. Learn. Repeat."**
+- Portfolio: [aniketnagapure.dev](https://www.aniketnagapure.dev)
+- LinkedIn: [linkedin.com/in/aniket-nagapure](https://linkedin.com/in/aniket-nagapure)
+- X: [@aniketvnagapure](https://twitter.com/aniketvnagapure)
+- Email: [nanket.dev@gmail.com](mailto:nanket.dev@gmail.com)

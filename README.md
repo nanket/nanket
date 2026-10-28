@@ -1,31 +1,25 @@
 # Aniket Nagapure
 
-Senior React Engineer and full-stack builder focused on shipping practical web and mobile products.
+Senior React Engineer based in Mumbai. I build web and mobile products at work and ship my own apps on the side.
 
-I work mostly with React, React Native, TypeScript, Node.js, Python, and AI-assisted product workflows. My recent work is around educational developer tools, trading automation, small-business software, and focused content/product sites.
+## Breeze: a free, open-source Mac cleaner
 
-## Selected Public Work
+<a href="https://github.com/nanket/breeze"><img src="https://raw.githubusercontent.com/nanket/breeze/main/docs/screenshots/scan.jpg" width="720" alt="Breeze Smart Scan showing 8.52 GB of junk found"></a>
 
-- [NamasteJS Visualizer](https://github.com/nanket/namastejs-visualizer) - open-source JavaScript concept visualizer for closures, scope, promises, async/await, and the event loop.
-- [Nifty Telegram High Low Bot](https://github.com/nanket/nifty-telegram-high-low-bot) - market utility for NIFTY high/low updates via Telegram.
-- [Swami Vivekananda Web](https://github.com/nanket/swami-vivekananda-web) - focused web experience around Swami Vivekananda content.
-- [Paiwat Website](https://github.com/nanket/paiwat-website) - business website project.
-- [Stitchwell Notify](https://github.com/nanket/stitchwell-notify) - notification workflow for Stitchwell operations.
+[Breeze](https://github.com/nanket/breeze) is a native SwiftUI app that clears the junk developers pile up: `node_modules`, Xcode DerivedData, simulator caches, Gradle and CocoaPods caches. It also uninstalls apps along with their leftovers and finds duplicates and large files. Nothing is removed until you've reviewed it, and most things go to the Trash first.
 
-## Core Stack
+**[Download for macOS](https://nanket.github.io/breeze/)** · **[Source code](https://github.com/nanket/breeze)**
 
-React, React Native, TypeScript, Next.js, Node.js, Python, Tailwind CSS, Firebase, Supabase, Vercel, Google Cloud, OpenAI APIs.
+## What I work with
 
-## Current Focus
-
-- Developer education tools and JavaScript learning experiences
-- Trading and market-automation utilities
-- Mobile-first SaaS and small-business workflow software
-- AI-assisted product development and automation
+- **Web:** React, Next.js, TypeScript, Node.js, Tailwind CSS
+- **Mobile and desktop:** React Native, Flutter, Swift and SwiftUI
+- **Backend and cloud:** Python, Firebase, Supabase, Vercel, Google Cloud, Cloudflare Workers
+- **AI:** LLM APIs and AI-assisted product workflows
 
 ## Contact
 
 - Portfolio: [aniketnagapure.dev](https://www.aniketnagapure.dev)
 - LinkedIn: [linkedin.com/in/aniket-nagapure](https://linkedin.com/in/aniket-nagapure)
-- X: [@aniketvnagapure](https://twitter.com/aniketvnagapure)
+- X: [@aniketvnagapure](https://x.com/aniketvnagapure)
 - Email: [nanket.dev@gmail.com](mailto:nanket.dev@gmail.com)

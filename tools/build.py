@@ -204,6 +204,7 @@ LINKS = {
     "youtube": "https://www.youtube.com/@interviewarcade",
     "breeze": "https://github.com/nanket/breeze",
     "breeze_download": "https://nanket.github.io/breeze/",
+    "ai_scratch": "https://github.com/nanket/ai-engineering-from-scratch",
 }
 
 INK, CREAM, MUTED, SOFT = "#0B0C10", "#F4EFE6", "#8F95A0", "#ABB0BA"
@@ -718,6 +719,8 @@ def readme():
 {h['03']}
 
 <a href="{LINKS['youtube']}"><img src="{RAW}youtube.svg" width="100%" alt="Interview Arcade on YouTube: system design, DSA and AI interviews, animated."></a>
+
+<p align="center"><sub>Code for the series: <a href="{LINKS['ai_scratch']}">AI Engineering from Scratch</a>, from a single neuron to a tiny GPT in plain Python.</sub></p>
 
 <br><br>
 

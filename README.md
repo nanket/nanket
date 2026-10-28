@@ -30,6 +30,8 @@
 
 <a href="https://www.youtube.com/@interviewarcade"><img src="https://raw.githubusercontent.com/nanket/nanket/main/assets/youtube.svg" width="100%" alt="Interview Arcade on YouTube: system design, DSA and AI interviews, animated."></a>
 
+<p align="center"><sub>Code for the series: <a href="https://github.com/nanket/ai-engineering-from-scratch">AI Engineering from Scratch</a>, from a single neuron to a tiny GPT in plain Python.</sub></p>
+
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanket/nanket/main/assets/header-04-dark.svg"><img src="https://raw.githubusercontent.com/nanket/nanket/main/assets/header-04-light.svg" alt="Toolbox: What I build with" width="100%"></picture>

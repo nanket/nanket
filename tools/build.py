@@ -40,6 +40,7 @@ for key, (name, location) in FONT_FILES.items():
     if location:
         font = instancer.instantiateVariableFont(font, location)
     font.flavor = None
+    font.recalcTimestamp = False
     buf = io.BytesIO()
     font.save(buf)
     FONT_BYTES[key] = buf.getvalue()
@@ -57,7 +58,7 @@ def width(key, text, size, ls=0):
 def font_css(used):
     rules = []
     for key, chars in sorted(used.items()):
-        font = TTFont(io.BytesIO(FONT_BYTES[key]))
+        font = TTFont(io.BytesIO(FONT_BYTES[key]), recalcTimestamp=False)  # same bytes on every build
         options = subset.Options()
         options.flavor = "woff2"
         options.layout_features = ["kern", "liga", "calt"]
